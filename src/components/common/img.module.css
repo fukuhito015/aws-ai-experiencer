@@ -1,0 +1,11 @@
+.imageContainer > span {
+  position: static !important;
+}
+
+.imageContainer img {
+  position: static !important;
+  width: 600px !important;
+  max-height: auto !important;
+  object-fit: scale-down;
+  cursor: pointer;
+}
