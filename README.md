@@ -1,6 +1,6 @@
-# リポジトリ名: AWSAIExperiencer
+# AWSAIExperiencer
 
-## システム名: AWS AI Services Experiencer
+## AWS AI Services Experiencer
 
 ### 機能概要
 
